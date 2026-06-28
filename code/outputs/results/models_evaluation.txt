@@ -1,0 +1,21 @@
+Tests MAE,  models :
+Naive forecasting : 0.6124999999999996
+Average forecasting : 0.27187499999999987
+Drift forecasting : 1.051785714285713
+
+
+Tests MAE, modèles ARIMA :
+Auto ARIMA forecasting : 0.27187499999999987
+ARIMA(1,1,0) forecasting : 0.6321436123084074
+ARIMA(1,1,1) forecasting : 0.6321436123084074
+
+Tests RMSE, modèles standards :
+Naive forecasting : 0.6528782428600293
+Average forecasting : 0.3911121961790505
+Drift forecasting : 1.0977365395230674
+
+
+Tests RMSE, modèles ARIMA :
+Auto ARIMA forecasting : 0.3911121961790505
+ARIMA(1,1,0) forecasting : 0.6746216142917733
+ARIMA(1,1,1) forecasting : 0.6746216142917733

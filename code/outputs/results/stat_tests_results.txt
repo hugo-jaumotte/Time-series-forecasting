@@ -1,0 +1,148 @@
+ADF test :
+
+Augmented Dickey-Fuller unit root test
+--------------------------------------
+Population details:
+    parameter of interest:   coefficient on lagged non-differenced variable
+    value under h_0:         0
+    point estimate:          0.00739789
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    p-value:                     0.8089
+
+Details:
+    sample size in regression:          14
+    number of lags:                     1
+    ADF statistic:                      0.432377
+    Critical values at 1%, 5%, and 10%: adjoint([-2.71965, -1.96331, -1.60463])
+
+
+Augmented Dickey-Fuller unit root test
+--------------------------------------
+Population details:
+    parameter of interest:   coefficient on lagged non-differenced variable
+    value under h_0:         0
+    point estimate:          -0.946331
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    p-value:                     0.2498
+
+Details:
+    sample size in regression:          14
+    number of lags:                     1
+    ADF statistic:                      -2.08685
+    Critical values at 1%, 5%, and 10%: adjoint([-3.92402, -3.0685, -2.67389])
+
+
+Augmented Dickey-Fuller unit root test
+--------------------------------------
+Population details:
+    parameter of interest:   coefficient on lagged non-differenced variable
+    value under h_0:         0
+    point estimate:          -1.20127
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    p-value:                     0.3030
+
+Details:
+    sample size in regression:          14
+    number of lags:                     1
+    ADF statistic:                      -2.55086
+    Critical values at 1%, 5%, and 10%: adjoint([-4.66839, -3.73126, -3.30945])
+
+
+Augmented Dickey-Fuller unit root test
+--------------------------------------
+Population details:
+    parameter of interest:   coefficient on lagged non-differenced variable
+    value under h_0:         0
+    point estimate:          -1.00055
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    p-value:                     0.3280
+
+Details:
+    sample size in regression:          13
+    number of lags:                     2
+    ADF statistic:                      -1.90868
+    Critical values at 1%, 5%, and 10%: adjoint([-3.92402, -3.0685, -2.67389])
+
+
+Augmented Dickey-Fuller unit root test
+--------------------------------------
+Population details:
+    parameter of interest:   coefficient on lagged non-differenced variable
+    value under h_0:         0
+    point estimate:          -1.96553
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    p-value:                     0.3399
+
+Details:
+    sample size in regression:          11
+    number of lags:                     4
+    ADF statistic:                      -1.88342
+    Critical values at 1%, 5%, and 10%: adjoint([-3.92402, -3.0685, -2.67389])
+
+
+
+Ljung-Box test :
+
+Ljung-Box autocorrelation test
+------------------------------
+Population details:
+    parameter of interest:   autocorrelations up to lag k
+    value under h_0:         "all zero"
+    point estimate:          NaN
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    one-sided p-value:           0.6912
+
+Details:
+    number of observations:         16
+    number of lags:                 2
+    degrees of freedom correction:  0
+    Q statistic:                    0.738705
+
+
+Ljung-Box autocorrelation test
+------------------------------
+Population details:
+    parameter of interest:   autocorrelations up to lag k
+    value under h_0:         "all zero"
+    point estimate:          NaN
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    one-sided p-value:           0.7383
+
+Details:
+    number of observations:         16
+    number of lags:                 4
+    degrees of freedom correction:  0
+    Q statistic:                    1.98632
+
+
+Ljung-Box autocorrelation test
+------------------------------
+Population details:
+    parameter of interest:   autocorrelations up to lag k
+    value under h_0:         "all zero"
+    point estimate:          NaN
+
+Test summary:
+    outcome with 95% confidence: fail to reject h_0
+    one-sided p-value:           0.8752
+
+Details:
+    number of observations:         16
+    number of lags:                 8
+    degrees of freedom correction:  0
+    Q statistic:                    3.79416
+
