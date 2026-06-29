@@ -1,4 +1,4 @@
-# Time Series Forecasting – One Piece Live Action Ratings Prediction
+# Time Series Forecasting – One Piece Live Action Ratings Prediction (Academic Project)
 
 ## Overview
 
